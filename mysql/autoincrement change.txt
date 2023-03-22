@@ -1,0 +1,5 @@
+#Auto increment change any range
+ALTER TABLE TableName AUTO_INCREMENT = 100
+
+#reset the value from 1
+truncate table tablename
